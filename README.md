@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning embedded and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- marxgourav@gmail.com
 
 <!---
 marxGourav/marxGourav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
